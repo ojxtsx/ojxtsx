@@ -6,7 +6,7 @@ const hamdan = {
   location: "UAE",
   stack: ["React", "Next.js", "TypeScript", "Tailwind", "Mantine"],
   currentlyWorkingOn: "Building cool UI stuff",
-  learning: ["Advanced animations"],
+  learning: ["java"],
   funFact: "I refactor UI that already works"
 };
 
